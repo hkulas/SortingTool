@@ -30,14 +30,16 @@ It will separate each line as an input.
 These do not have any functionality.
 
 ## Examples
-java SortingTool -sortingType natural -dataType long
+-sortingType natural -dataType long
+```
 1 -2   33 4
 42
 1                 1
 Total numbers: 7.
 Sorted data: -2 1 1 1 4 33 42 
-
+```
 -sortingType byCount -dataType line
+```
 1 -2   33 4
 42
 1                 1
@@ -46,3 +48,4 @@ Sorted data:
 1                 1
 1 -2   33 4
 42
+```
